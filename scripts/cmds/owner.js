@@ -25,9 +25,9 @@ module.exports = {
 				Birthday: '01-12-2007',
 				religion: '𝑰𝑺𝑳𝑨𝑴',
 				hobby: '𝑭𝒍𝒊𝒓𝒕𝒊𝒏𝒈 ✌️',
-				Fb: 'https://www.facebook.com/Itz.HaSaN.00',
+				Fb: 'https://www.facebook.com/.ayanokoji.00',
 				Relationship: 'iam feelingless ',
-				Height: '5"4'
+				Height: '5"7'
 			};
 
 			const bold = 'https://i.imgur.com/Ch8ZvsM.mp4';
