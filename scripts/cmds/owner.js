@@ -7,7 +7,7 @@ module.exports = {
 	config: {
 		name: "owner",
 		aliases: ["info"],
-		author: "Hasan",
+		author: "Ayanokoji",
 		role: 0,
 		shortDescription: " ",
 		longDescription: "",
@@ -18,15 +18,15 @@ module.exports = {
 	onStart: async function ({ api, event }) {
 		try {
 			const ownerInfo = {
-				name: '𝑯𝑨𝑺𝑨𝑵 𝑴𝑨𝑯𝑴𝑼𝑫',
+				name: 'Ayanokoji kiyotaka ',
 				class: '𝑺𝑺𝑪 𝑪𝑨𝑵𝑫𝑰𝑫𝑨𝑻𝑬',
 				group: '𝑺𝑪𝑰𝑬𝑵𝑪𝑬',
 				gender: '𝑴𝑨𝑳𝑬',
-				Birthday: '𝟐𝟐-𝟎𝟕-𝟐𝟎𝟎𝟖',
+				Birthday: '01-12-2007',
 				religion: '𝑰𝑺𝑳𝑨𝑴',
-				hobby: '𝑭𝒍𝒊𝒓𝒕𝒊𝒏𝒈 😁',
+				hobby: '𝑭𝒍𝒊𝒓𝒕𝒊𝒏𝒈 ✌️',
 				Fb: 'https://www.facebook.com/Itz.HaSaN.00',
-				Relationship: '𝑨𝑳𝑾𝑨𝒀𝑺 𝑩𝑬 𝑺𝑰𝑵𝑮𝑳𝑬',
+				Relationship: 'iam feelingless ',
 				Height: '5"4'
 			};
 
