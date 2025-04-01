@@ -6,7 +6,7 @@ module.exports = {
         name: "admin",
         aliases: ["ad"],
         version: "1.0",
-        author: "♡︎ 𝐻𝐴𝑆𝐴𝑁 ♡︎",
+        author: "♡︎ Ayanokoji ♡︎",
         countDown: 5,
         role: 0,
         shortDescription: {
@@ -28,13 +28,13 @@ module.exports = {
         en: {
             listAdmin: "🎭 𝗢𝗪𝗡𝗘𝗥 𝑎𝑛𝑑 𝗔𝗗𝗠𝗜𝗡 🎭"
                 + "\n ♦___________________♦"
-                + "\n ♕︎ 𝑶𝑾𝑵𝑬𝑹 ♕︎: ✨ 𝐻𝐴𝑆𝐴𝑁 ✨"
+                + "\n ♕︎ 𝑶𝑾𝑵𝑬𝑹 ♕︎: ✨ AYANOKŌJI ✨"
                 + "\n _____________________________"
                 + "\n _____♔︎ 𝑨𝑫𝑴𝑰𝑵'𝑺 ♔︎_____"
                 + "\n %1"
                 + "\n _____________________________"
-                + "\n ♔︎ 𝑂𝑊𝑁𝐸𝑅 ♔︎:https://www.facebook.com/Itz.HaSaN.00"
-                + "\n |__𝐻𝐴𝑆𝐴𝑁'𝑆_𝐵𝑂𝑇__|",
+                + "\n ♔︎ 𝑂𝑊𝑁𝐸𝑅 ♔︎:https://www.facebook.com/share/18pD1CmPjs/"
+                + "\n |__Ayanokoji, s tool__|",
             noAdmin: "⚠️ | No admins found!",
             added: "✅ | Added admin role for %1 users:\n%2",
             alreadyAdmin: "\n⚠️ | %1 users already have admin role:\n%2",
