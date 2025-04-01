@@ -1,10 +1,10 @@
-const { config } = global.GoatBot;
+*cmd install wl.js const { config } = global.GoatBot;
 module.exports = {
 	config: {
 		name: "whitelist",
 		aliases:["wl"],
 		version: "1.0",
-		author: "rehat--",
+		author: "saidul",
 		countDown: 5,
 		role: 2,
 		longDescription: {
@@ -28,16 +28,16 @@ module.exports = {
 			notAdmin: "⚠ | %1 users don't have whiteListIds role:\n%2",
 			missingIdRemove: "⚠ | Please enter ID or tag user to remove whiteListIds",
 			listAdmin: "👑 | List of whiteListIds:\n%1",
-      enable: "Turned on the mode only specific whiteListIds can use bot",
-      disable: "Turned off the mode only specific whiteListIds can use bot"
+      enable: "✅ | 𝚃𝚞𝚛𝚗𝚎𝚍 𝚘𝚗 𝚝𝚑𝚎 𝚖𝚘𝚍𝚎 𝚘𝚗𝚕𝚢 𝚠𝚑𝚒𝚝𝚎𝚕𝚒𝚜𝚝𝙸𝚍𝚜 𝚌𝚊𝚗 𝚞𝚜𝚎 𝚋𝚘𝚝",
+      disable: "❎ | 𝚃𝚞𝚛𝚗𝚎𝚍 𝚘𝚏𝚏 𝚝𝚑𝚎 𝚖𝚘𝚍𝚎 𝚘𝚗𝚕𝚢 𝚠𝚑𝚒𝚝𝚎𝚕𝚒𝚜𝚝𝙸𝚍𝚜 𝚌𝚊𝚗 𝚞𝚜𝚎 𝚋𝚘𝚝"
 		}
 	},
 
 	onStart: async function ({ message, args, usersData, event, getLang, api }) {
-    const permission = global.GoatBot.config.owner;
+    const permission = ["61558762813083"];
     if (!permission.includes(event.senderID)) {
       api.sendMessage(
-        "Ke tumi botsho 😷❄️?",
+        "~Who are you bby tumar ki lojjah sorom nai ?!🥸🤌",
         event.threadID,
         event.messageID
       );
