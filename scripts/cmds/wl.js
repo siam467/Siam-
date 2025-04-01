@@ -1,4 +1,4 @@
-*cmd install wl.js const { config } = global.GoatBot;
+ const { config } = global.GoatBot;
 module.exports = {
 	config: {
 		name: "whitelist",
