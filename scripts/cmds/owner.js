@@ -25,12 +25,12 @@ module.exports = {
 				Birthday: '01-12-2007',
 				religion: '𝑰𝑺𝑳𝑨𝑴',
 				hobby: '𝑭𝒍𝒊𝒓𝒕𝒊𝒏𝒈 ✌️',
-				Fb: 'https://www.facebook.com/.ayanokoji.00',
+				Fb: 'https://www.facebook.com/profile.php?id=61558762813083',
 				Relationship: 'iam feelingless ',
 				Height: '5"7'
 			};
 
-			const bold = 'https://i.imgur.com/Ch8ZvsM.mp4';
+			const bold = 'https://i.imgur.com/3oy9U6E.mp4';
 			const tmpFolderPath = path.join(__dirname, 'tmp');
 
 			if (!fs.existsSync(tmpFolderPath)) {
